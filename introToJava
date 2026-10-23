@@ -87,3 +87,6 @@ objects
 
     }
 }
+//to run javac Name.java
+// java Name
+
