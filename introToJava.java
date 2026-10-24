@@ -81,6 +81,14 @@ objects
         %b - boolean
         %l - long
 
+nextByte()	byte broj
+nextShort()	short broj
+nextInt()	int broj
+nextLong()	long broj
+nextFloat()	float broj
+nextDouble()	double broj
+next()	eden zbor, do prazno mesto
+nextLine()	cela linija tekst
          */
     
 
